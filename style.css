@@ -134,6 +134,7 @@ h2 {
 
 .profil {
   max-width: 250px;
+  height: auto;
   border: 1px solid white;
 }
 
